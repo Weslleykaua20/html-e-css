@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* navegação */ 
+nav {
+    background-color: rgb(66, 67, 83);
+    color: rgb(155, 75, 75);
+    padding: 20px;
+}
+
+.menu_center{
+    text-align: center;
+}
+
+ul{
+   list-style: nome;
+}
+
+li{
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+a{
+    color: rgba(255, 255, 255, 0.788);
+    text-decoration: none;
+}
+
+img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
